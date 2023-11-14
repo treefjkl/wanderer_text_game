@@ -1,0 +1,15 @@
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\bin\Debug\net6.0\Wanderer-program.exe
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\bin\Debug\net6.0\Wanderer-program.deps.json
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\bin\Debug\net6.0\Wanderer-program.runtimeconfig.json
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\bin\Debug\net6.0\Wanderer-program.dll
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\bin\Debug\net6.0\Wanderer-program.pdb
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.csproj.AssemblyReference.cache
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.AssemblyInfoInputs.cache
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.AssemblyInfo.cs
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.csproj.CoreCompileInputs.cache
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.dll
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\refint\Wanderer-program.dll
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.pdb
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\Wanderer-program.genruntimeconfig.cache
+C:\Users\anduser\source\repos\Wanderer-Game_Console\Wanderer-program\obj\Debug\net6.0\ref\Wanderer-program.dll
